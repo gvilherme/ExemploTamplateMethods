@@ -1,3 +1,5 @@
+package ImpostoStrategy;
+import Entities.Orcamento;
 
 public abstract class CalculaImpostoComFaixa implements IImposto {
 
